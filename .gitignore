@@ -1,0 +1,24 @@
+# Environments
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables
+.env
+
+# Database & Vector Store (Langchain & RAG)
+chroma_db/
+*.db
+*.sqlite
+*.sqlite3
+memory.db
+sqlite_memory.db
+
+# OS & IDEs
+.vscode/
+.idea/
+.DS_Store
+*.swp
