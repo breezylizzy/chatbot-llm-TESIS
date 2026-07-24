@@ -66,6 +66,8 @@ Buat satu fungsi (_tool_) baru dengan nama `cek_harga_menu`. Fungsi ini tugasnya
 - **Contoh pertanyaan:** _"Harga kopi susu aren berapa?"_
 - **Output yang diharapkan:** AI bisa jawab informasi harga setiap menu dengan bener.
 
+<img width="960" height="540" alt="Screenshot 2026-07-24 231528" src="https://github.com/user-attachments/assets/d4a8cee3-6d66-4601-979b-368505825998" />
+
 ### 2. Modifikasi Knowledge RAG
 
 **Instruksi:**
@@ -73,6 +75,9 @@ Tambahin 1 dokumen baru yang isinya info operasional kafe biar AI-nya makin pint
 
 - **Contoh pertanyaan:** _"Kafe ini buka dari jam berapa?"_
 - **Output yang diharapkan:** AI bisa ngejelasin jam buka/tutup kafe pakai data baru yang udah ditambahin.
+
+<img width="960" height="540" alt="Screenshot 2026-07-24 231609" src="https://github.com/user-attachments/assets/11169776-09aa-4d22-9c4e-c5d41014e88b" />
+
 
 ### 3. Guardrails (Scope Limitation) & Persona
 
@@ -84,6 +89,9 @@ Modif _system prompt_-nya ya. Tambahin instruksi (_guardrails_) berupa _Scope Li
 
 - **Contoh pertanyaan:** _"Eh bro, gue mau tanya kebijakan pemerintah sekarang gimana sih?"_
 - **Output yang diharapkan:** AI jawabnya tetap asyik, tapi nolak buat bahas topik itu dan langsung ngarahin pembicaraan balik ke pesanan kafe.
+
+<img width="960" height="540" alt="Screenshot 2026-07-24 231155" src="https://github.com/user-attachments/assets/7d35f53f-02aa-4123-9560-2d7b1015823e" />
+
 
 ---
 
