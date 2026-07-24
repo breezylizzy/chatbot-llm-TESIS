@@ -90,8 +90,7 @@ Modif _system prompt_-nya ya. Tambahin instruksi (_guardrails_) berupa _Scope Li
 - **Contoh pertanyaan:** _"Eh bro, gue mau tanya kebijakan pemerintah sekarang gimana sih?"_
 - **Output yang diharapkan:** AI jawabnya tetap asyik, tapi nolak buat bahas topik itu dan langsung ngarahin pembicaraan balik ke pesanan kafe.
 
-<img width="960" height="540" alt="Screenshot 2026-07-24 231155" src="https://github.com/user-attachments/assets/7d35f53f-02aa-4123-9560-2d7b1015823e" />
-
+<img width="960" height="540" alt="Screenshot 2026-07-24 231416" src="https://github.com/user-attachments/assets/dd7251d9-14ee-409a-b536-a66cd6eba445" />
 
 ---
 
